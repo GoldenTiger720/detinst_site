@@ -110,8 +110,8 @@ const ServicesGallerySection = () => {
     {
       title: "Digital printing",
       images: [
-        "/images/Férula+Michigan.png", // 3D printed dental model (blue/teal)
-        "/images/Férulas+quirúrgicas.png", // Clear dental aligners
+        "/images/digintal_1.png", // 3D printed dental model (blue/teal)
+        "/images/digintal_2.png", // Clear dental aligners
       ],
     },
     {
@@ -289,7 +289,7 @@ const ServicesGallerySection = () => {
             <div className="relative w-full md:w-96">
               <div className="h-[92%] max-h-[420px] aspect-[4/5] w-[350px] rounded-br-[150px] rounded-tr-[15px]  overflow-hidden bg-[#8F5E25] flex flex-row">
                 <img
-                  src="/images/avatar/Hugo+Buzón 2.png"
+                  src="/images/avatar/Hugo_3.png"
                   alt="Hugo Mailbox profile"
                   className="!w-[calc(100% - 20px)] h-full object-cover"
                 />
@@ -388,7 +388,7 @@ const ServicesGallerySection = () => {
               <div className="h-[90%] max-h-[420px] w-[380px] rounded-bl-[150px] rounded-tl-[15px]  overflow-hidden bg-[#8F5E25] flex flex-row">
                 <div></div>
                 <img
-                  src="/images/avatar/Hugo+Buzón 2 (1).png"
+                  src="/images/avatar/Hugo_2.png"
                   alt="Guillem Cao profile"
                   className="!w-[calc(100% - 20px)] ml-[95px] h-full object-cover "
                 />
@@ -409,7 +409,7 @@ const ServicesGallerySection = () => {
             <div className="relative w-full md:w-96">
               <div className="w-full h-[92%]  overflow-hidden bg-[#8F5E25] rounded-br-[100px]">
                 <img
-                  src="/images/avatar/Hugo+Buzón 2 (2).png"
+                  src="/images/avatar/Hugo.png"
                   alt="Ino Mailbox profile"
                   className="w-[90%] h-full"
                 />

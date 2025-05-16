@@ -14,7 +14,7 @@ const ServicesDigitalPrintingCarousel = () => {
   const digitalPrintingImages = [
     {
       id: 1,
-      src: "/images/Férulas+quirúrgicas.png",
+      src: "/images/digintal_2.png",
       alt: "Digital dental model in blue color",
     },
     {
