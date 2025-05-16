@@ -24,7 +24,7 @@ const ServicesDigitalPrintingCarousel = () => {
     },
     {
       id: 3,
-      src: "/images/Férula+Michigan.png",
+      src: "/images/digintal_1.png",
       alt: "Digital dental implant",
     },
     {
